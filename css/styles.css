@@ -1,4 +1,24 @@
-.column {
+.column1 {
   width: 300px;
   float: left;
+  background-color: orange;
+  border: 2px solid green;
+  padding: 40px;
+
+}
+
+.column2 {
+  width: 300px;
+  float: left;
+  background-color: blue;
+  border: 2px solid green;
+  padding: 4px;
+}
+
+.column3 {
+  width: 300px;
+  float: left;
+  background-color: green;
+  border: 2px solid blue;
+  padding: 14px;
 }
